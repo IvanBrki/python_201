@@ -123,12 +123,12 @@ izraz je uži od ostatka teksta i treba ga prikazati drugim fontom\".
 Ovaj koncept nazivamo \"označavanje teksta\", a o tome ćemo nešto
 detaljnije kasnije.
 
-::: important
+``` important
 Zapis i prikaz računalnog teksta Računalni tekst je zapisan kodom, a
 prikaz mu se dodjeljuje pravilima. Kada gledamo prikaz običnog teksta na
 ekranu, računalo koristi dodatna formalna pravila kako bi svakom znaku
 dodijelilo vizualni izričaj.
-:::
+```
 
 Šifra za jedan znak je dakle niz nula i jedinica u memoriji od kojih
 određen broj predstavlja neki znak, na primjer slovo \"a\". Za razliku
