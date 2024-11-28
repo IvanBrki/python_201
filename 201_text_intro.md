@@ -163,8 +163,8 @@ znamenki, 32 interpunkcijska znaka i 32 kontrolna znaka (od kojih je
 većina zastarjela). Svi znakovi osim kontrolnih su prikazani u Tablici
 [\[tab:ASCII\]](#tab:ASCII){reference-type="ref" reference="tab:ASCII"}.
 
-::: center
-:::
+``` center
+```
 
 Tablica ne sadrži znakove koji nemaju vizualnu reprezentaciju na način
 na koji to imaju slova, brojevi i interpunkcija. Među ovim znakovima se
