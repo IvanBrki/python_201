@@ -55,7 +55,7 @@ dodatne informacije koje u ovom slučaju samo otežavali komunikaciju za
 razliku od tiskanog teksta u kojemu je omogućuju i potencijalno
 olakšavaju.
 
-::: important
+``` important
 Digitalan tekst Pošaljite signal SOS lupkajući o stol. Upravo ste
 prenijeli digitalni, ali ne i elektronički tekst. Kako nakositi ili
 podebljati slova? Kako promijeniti font? Razmišljanjem o tim pitanjima
@@ -63,7 +63,7 @@ doći ćete do razumijevanja razlike digitalnog teksta od teksta kakvim ga
 poznajete s papira, pergamene, papirusa ili zida pećine. Takav tekst je
 zapisan prikazom, a digitalan tekst se prenosi kodom koji nema nikakve
 veze s prikazom teksta za potrebe njegova prenošenja.
-:::
+```
 
 ## Kodiranje teksta
 
